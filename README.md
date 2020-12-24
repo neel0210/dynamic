@@ -1,4 +1,4 @@
-# guide to pack and extract super images
+# guide to pack and unpack super images
 
 ### Initial
 * Clone that repo with ```git clone https://github.com/neel021000/dynamic.git``` tho it will be private but nvm
