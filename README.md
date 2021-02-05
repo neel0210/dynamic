@@ -1,7 +1,7 @@
 # guide to pack and unpack super images
 
 ### Initial
-* Clone that repo with ```git clone https://github.com/neel021000/dynamic.git``` tho it will be private but nvm
+* Clone that repo with ```git clone https://github.com/neel021000/dynamic.git``` tho its still in beta phase.
 * Get the super.img file and put it in the same folder as the binary named 'lpunpack'
 
 ### What needed?
