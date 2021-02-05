@@ -24,4 +24,6 @@ or
 * Davinash97 - for his base script
 * Astrako - for his help in each and everything
 * yukosky - for explaining me and sharing his idea
+
+### - if i forgot to mention anyone, please do let me know
  
