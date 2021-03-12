@@ -11,12 +11,12 @@
 * Note: Some devices have only: system, odm, vendor and product. Oppo/Realme devices can have oppo_product, then use imjtool binary its there too!!
 * Shell time:
 ```
-chmod a+x ./neel.sh
-./neel.sh
+chmod a+x ./kitchen.sh
+./kitchen.sh
 
 or
 
-. neel.sh
+. kitchen.sh
 ```
 - choose as per your need!
 
