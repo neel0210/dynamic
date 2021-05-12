@@ -21,6 +21,7 @@ or
 - choose as per your need!
 
 ### Credits
+* MrWaeHhere - for His binaries and great work with CRB kitchen
 * DAvinash97 - for his base script
 * Astrako - for his help in each and everything
 * yukosky - for explaining me and sharing his idea
