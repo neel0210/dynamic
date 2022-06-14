@@ -40,6 +40,13 @@ UnPack)
   echo "====================="
   ./imjtool super.img extract ./PRISH
   mv super.img ./PRISH/super.img-old ; mv extracted/* .
+  mv image.img ./extracted
+  cp -r lpunpack ./extracted
+  cd extracted
+  mv image.img super.img
+  simg2simg super.img super.ext4.img
+  ./lpunpack super.ext4.img
+  cd ..
  clear
  echo -e "$LOGO"
  echo -e "$SELECT"
