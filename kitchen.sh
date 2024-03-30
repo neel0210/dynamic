@@ -38,8 +38,8 @@ UnPack)
   echo "====================="
   echo "Unpacking Super Image"
   echo "====================="
-  ./imjtool super.img extract ./PRISH
-  mv super.img ./PRISH/super.img-old ; mv extracted/* .
+  ./imjtool super.img extract ./KKRT
+  mv super.img ./KKRT/super.img-old ; mv extracted/* .
   mv image.img ./extracted
   cp -r lpunpack ./extracted
   cd extracted
